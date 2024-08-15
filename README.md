@@ -1,3 +1,3 @@
 # Deployed React App
 
-https://popugalic.github.io/deploy-react-ap
+https://popugalic.github.io/deploy-react-app
